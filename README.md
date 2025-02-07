@@ -6,6 +6,7 @@ Yaslore Website
       Yaslore is a developer, gamer, and consumer tech lover, trying to explain things while having fun with games and everything in the universe.
 - 🌱 I’m currently learning everything new!
 - 📫 How to reach me is searching Yaslore on YouTube or any social media.
+- https://www.youtube.com/@Yaslore
 - 😄 Pronouns: just another man in the world
 - ⚡ Fun fact: He even has a kid.
 
