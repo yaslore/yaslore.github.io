@@ -13,9 +13,3 @@ Yaslore Website
 Expect tons of 'How-to' videos from me, like how to fix stuff, etc.
 Maybe mine is your must have YouTube channel if you love both technology and gaming. 
 Weekly streams on Sunday random time.
-
-
-<!---
-yaslore/yaslore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
